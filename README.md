@@ -16,10 +16,11 @@ The application is ran using the following command.
 ```  
 node index.js
 ```  
-Refer to the [Deployed application](#deployed-application) section for a walkthrough video of the application running.  
+Refer to the [Deployed application](#deployed-Application) section for a walkthrough video of the application running.  
 
 ## License 
 The following application is licensed under GNU-3.  
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 
-## Deployed-application  
+## Deployed-Application  
+[Link to Walkthrough video](https://drive.google.com/file/d/1dRkgN2HH8bqQdzBPPTmPUt-ssRpIw0iA/view)
